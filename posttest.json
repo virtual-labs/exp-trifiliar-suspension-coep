@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Polar moment of inertia(I<sub>P</sub>) of a circular disc is to be determined by suspending it by a wire and noting the frequency of oscillations(f)",
+      "answers": {
+        "a": "I<sub>P</sub> &infin; f",
+        "b": "I<sub>P</sub> &infin; f<sup>2</sup>",
+        "c": "I<sub>P</sub> &infin; 1/f<sup>2</sup>",
+        "d": "none of the mentioned"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The natural frequency of a spring-mass system on earth is &omega;<sub>n</sub>. The natural frequency of this system on the moon (g<sub>moon</sub> =g<sub>earth</sub>/6) is",
+      "answers": {
+        "a": "&omega;<sub>n</sub>",
+        "b": "0.408&omega;<sub>n</sub>",
+        "c": "0.204&omega;<sub>n</sub>",
+        "d": "0.167&omega;<sub>n</sub>"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "An automotive engine weighing 240 kg is supported on four springs with linear characteristics. Each of the front two springs have a stiffness of 16MN/m while the stiffness of each rear spring is 32MN/m. The engine speed (in rpm), at which resonance is likely to occur, is",
+      "answers": {
+        "a": "6040",
+        "b": "3020",
+        "c": "1424",
+        "d": "955"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A vehicle suspension system consists of a spring and a damper. The stiffness of the spring is 3.6 kN/m and the damping constant of the damper is 400 Ns/m. If the mass is 50 kg, then the damping factor (d) and damped natural frequency (<sub>n</sub>), respectively, are",
+      "answers": {
+        "a": "0.471 and 7.48 Hz",
+        "b": "0.471 and 1.19 Hz",
+        "c": "0.666 and 1.35 Hz",
+        "d": "0.666 and 8.50 Hz"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A vibratory system consists of a mass 12.5 kg, a spring of stiffness 1000N/m , and a dash-pot with damping coefficient of 15 Ns/m. The value of critical damping of the system is",
+      "answers": {
+        "a": "0.223 Ns/m",
+        "b": "17.88 Ns/m",
+        "c": "71.4 Ns/m",
+        "d": "223.6 Ns/m"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
