@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In S.H.M., acceleration is proportional to",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "velocity",
+        "b": "displacement",
+        "c": "rate of change of velocity",
+        "d": "none of the mentioned"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In S.H.M., the velocity vector w.r.t. displacement vector",
+      "answers": {
+        "a": "leads by 90&deg;",
+        "b": "lags by 90&deg;",
+        "c": "leads by 180&deg;",
+        "d": "none of the mentioned"
       },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A body having moment of inertia of 30 kg m<sup>2</sup> is rotating at 210 RPM and mashes with another body at rest having M.I. of 40 kg m<sup>2</sup>. The resultant speed after meshing will be",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "100 RPM",
+        "b": "90 RPM",
+        "c": "80 RPM",
+        "d": "none of the mentioned"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Inertia force acts",
+      "answers": {
+        "a": "perpendicular to the accelerating force",
+        "b": "along the direction of accelerating force",
+        "c": "opposite to the direction of accelerating force",
+        "d": "none of the mentioned"
       },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The frequency of oscillation at moon compared to earth will be",
+      "answers": {
+        "a": "6 times more",
+        "b": "6 times less",
+        "c": "2.44 times more",
+        "d": "2.44 times less"
+      },
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
